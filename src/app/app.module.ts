@@ -23,7 +23,6 @@ const routes: Routes = [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     BrowserAnimationsModule,
     RouterModule.forRoot(routes, {
-    initialNavigation: 'enabled'
 }),
     ProfileModule,
     HttpClientModule
