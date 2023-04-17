@@ -2,12 +2,12 @@ import { Component, OnInit, Inject, HostListener } from '@angular/core';
 import { DOCUMENT } from "@angular/common";
 
 @Component({
-    selector: 'app-scroll',
+    selector: 'sadak-scroll',
     templateUrl: './scroll.component.html',
     styleUrls: ['./scroll.component.scss']
 })
 export class ScrollComponent implements OnInit {
-    windowScrolled: boolean;
+    windowScrolled!: boolean;
     constructor(@Inject(DOCUMENT) private document: Document) {}
     @HostListener("window:scroll", [])
     onWindowScroll() {

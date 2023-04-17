@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ProfileService } from '../profile.service';
 
 @Component({
-  selector: 'app-extra-ciricular',
+  selector: 'sadak-extra-ciricular',
   templateUrl: './extra-ciricular.component.html',
   styleUrls: ['./extra-ciricular.component.scss']
 })

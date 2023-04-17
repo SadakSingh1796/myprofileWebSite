@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ProfileService } from '../profile.service';
 
 @Component({
-  selector: 'app-skills',
+  selector: 'sadak-skills',
   templateUrl: './skills.component.html',
   styleUrls: ['./skills.component.scss']
 })

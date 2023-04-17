@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-reference',
+  selector: 'sadak-reference',
   templateUrl: './reference.component.html',
   styleUrls: ['./reference.component.scss']
 })

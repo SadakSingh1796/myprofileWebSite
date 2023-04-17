@@ -153,7 +153,7 @@ export class ProfileService {
       desc: '',
       livedemo: 'https://personal-portfolio0320.000webhostapp.com/',
       githurl: 'https://github.com/mehulk05/My-Personal-Portfolio',
-      mediumlink: 'https://mehulkothari05.medium.com/personal-portfolio-using-django-dba49c355905',
+      mediumlink: 'https://sadaksinghasr.medium.com/personal-portfolio-using-django-dba49c355905',
       imgUrl: 'assets/images/z12.png',
       tech: 'Django'
     },
@@ -162,9 +162,9 @@ export class ProfileService {
       id: 13,
       title: 'Movie Success Prediction',
       desc: '',
-      livedemo: 'https://mehulkothari05.medium.com/',
+      livedemo: 'https://sadaksinghasr.medium.com/',
       githurl: 'https://github.com/mehulk05',
-      mediumlink: 'https://mehulkothari05.medium.com/movie-success-prediction-a67d871a7b1',
+      mediumlink: 'https://sadaksinghasr.medium.com/movie-success-prediction-a67d871a7b1',
       imgUrl: 'assets/images/z13.png',
       tech: 'Python, Machine Learning, Django Framework.'
     },
@@ -173,9 +173,9 @@ export class ProfileService {
       id: 14,
       title: 'Matrimonial Website',
       desc: '',
-      livedemo: 'https://mehulkothari05.medium.com/',
+      livedemo: 'https://sadaksinghasr.medium.com/',
       githurl: 'https://github.com/mehulk05/Matrimonial-Website.git',
-      mediumlink: 'https://mehulkothari05.medium.com/matrimonial-website-9cd5247f477d',
+      mediumlink: 'https://sadaksinghasr.medium.com/matrimonial-website-9cd5247f477d',
       imgUrl: 'assets/images/z14.png',
       tech: 'HTML, CSS, Bootstrap, Jquery'
     },
@@ -183,8 +183,8 @@ export class ProfileService {
   ]
   about2 = `Software Developer with 2.5+ years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
-  Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
-  Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
+  Expertise in Angular 10+ All versions, HTML, Javascript,  .Net Core and  with Azure Service .
+  Have good understanding of .Net Core, Jquery, Bootstrap, SQL Server, Azure Service,DevOPS, and MYSQL`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://docs.google.com/document/d/1WODFuhIzQw2AXPsjt6f3rs-EDWhdhT8s89fOTrGRh70/edit?usp=sharing"
@@ -192,13 +192,13 @@ export class ProfileService {
   skillsData: any = [
     {
       'id': '1',
-      'skill': 'ANGULAR 2+',
-      'progress': '85%'
+      'skill': 'ANGULAR 10+',
+      'progress': '90%'
     },
     {
       'id': '2',
-      'skill': 'NODE JS',
-      'progress': '80%'
+      'skill': '.Net Core',
+      'progress': '70%'
     },
     {
       'id': '3',
@@ -207,18 +207,18 @@ export class ProfileService {
     },
     {
       'id': '4',
-      'skill': 'SQL , MYSQL,MONOGO, FIREBASE',
-      'progress': '75%'
+      'skill': 'SQL , MYSQL,Postgres, SQL Server',
+      'progress': '85%'
     },
     {
       'id': '5',
-      'skill': 'REACT JS',
-      'progress': '75%'
+      'skill': 'Azure Services',
+      'progress': '80%'
     },
     {
       'id': '6',
-      'skill': 'PYTHON,JAVA',
-      'progress': '70%'
+      'skill': 'AWS',
+      'progress': '60%'
     }
   ];
 
@@ -312,8 +312,8 @@ Completed my Secondary school with 84%.`
       id:1,
       title: 'Blogger',
       description: '',
-      img: 'assets/images/Mehul Kothari – Medium1.png',
-      url: 'https://mehulkothari05.medium.com/'
+      img: 'assets/images/Sadak Singh – Medium1.png',
+      url: 'https://sadaksinghasr.medium.com/'
     },
     {
       id:1,

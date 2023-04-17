@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ProfileService } from '../profile.service';
 
 @Component({
-  selector: 'app-projects',
+  selector: 'sadak-projects',
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.scss']
 })
